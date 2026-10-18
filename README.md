@@ -50,7 +50,7 @@ All models were trained and evaluated on $640 \times 640$-pixel images (resized 
 
 ## 4. Dataset & Licensing Note
 The dataset used in this study (1,757 images and 3,540 annotated objects split 70%/20%/10% into training, validation, and test sets) was compiled and refined from six publicly available repositories (cited as References [16]–[21] in the paper):
-1. [car-damage-detecting-MaskRCNN (GitHub)](https://github.com/EashanKaushik/car-damage-detecting-MaskRCNN/)
+1. [car-damage-detecting-MaskRCNN by E. Kaushik (GitHub)](https://github.com/EashanKaushik/car-damage-detecting-MaskRCNN/)
 2. [Kaggle Datasets by hongkyuryu](https://www.kaggle.com/datasets/hongkyuryu)
 3. [Car Damage Dataset by V. Jose (Kaggle)](https://www.kaggle.com/datasets/vinayjose/car-damage-dataset/)
 4. [Damaged Cars Dataset by Z. Zhakhangershaidullov (Kaggle)](https://www.kaggle.com/datasets/zhakhangershaidullov/damaged-cars-dataset/)
