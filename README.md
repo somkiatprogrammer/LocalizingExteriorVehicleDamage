@@ -16,7 +16,7 @@ Among all evaluated configurations (`YOLOv11n` and `YOLOv12n`, with and without 
 | **F1-Score** | $0.767 \pm 0.012$ |
 | **mAP50** | $0.794 \pm 0.012$ |
 | **mAP@50:95** | $0.407 \pm 0.010$ |
-| **Inference Latency** | $79.77\text{ ms/frame}$ ($12.54\text{ FPS}$) |
+| **Inference Latency** | $54.74\text{ ms/frame}$ ($18.27\text{ FPS}$) |
 
 ---
 
