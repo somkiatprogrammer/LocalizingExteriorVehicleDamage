@@ -31,9 +31,9 @@ LocalizingExteriorVehicleDamage/
 │   ├── yolov12n_balancing_nocbam_seed_0_best.pt      # Best validation mAP checkpoint (YOLOv12n,Balancing,No CBAM,Seed 0)
 │   ├── yolov12n_balancing_nocbam_seed_123_best.pt    # Best validation mAP checkpoint (YOLOv12n,Balancing,No CBAM,Seed 123)
 │   └── yolov12n_balancing_nocbam_seed_456_best.pt    # Best validation mAP checkpoint (YOLOv12n,Balancing,No CBAM,Seed 456)
-├── dataset.yaml                    # Ultralytics YOLO 13-class configuration
-├── LICENSE                         # License
-└── README.md                       # Documentation and licensing notes
+├── dataset.yaml                                      # Ultralytics YOLO 13-class configuration
+├── LICENSE                                           # License
+└── README.md                                         # Documentation and licensing notes
 ```
 
 ---
