@@ -1,0 +1,22 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 13
+names: [
+  'Front Windscreen', 
+  'Head Light', 
+  'Back Windscreen', 
+  'Side Mirror', 
+  'Tail Light', 
+  'Bonnet', 
+  'Boot', 
+  'Door', 
+  'Front Fender', 
+  'Front Bumper', 
+  'Back Fender', 
+  'Back Bumper', 
+  'Roof'
+]
+
+
